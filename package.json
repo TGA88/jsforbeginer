@@ -1,0 +1,28 @@
+{
+  "name": "jsforbeginer",
+  "version": "1.0.0",
+  "description": "starter project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TGA88/jsforbeginer.git"
+  },
+  "author": "bebestdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TGA88/jsforbeginer/issues"
+  },
+  "homepage": "https://github.com/TGA88/jsforbeginer#readme",
+  "devDependencies": {
+    "@babel/core": "^7.7.4",
+    "@babel/preset-env": "^7.7.4",
+    "babel-loader": "^8.0.6",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.9.0"
+  }
+}
